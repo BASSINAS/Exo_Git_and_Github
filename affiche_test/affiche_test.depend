@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1573227181 source:/home/elec/MASTER_2/git_and_github/Exo/Exo_Git_and_Github/affiche_test/main.c
+	<stdio.h>
+	<stdlib.h>
+
